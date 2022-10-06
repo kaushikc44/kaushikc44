@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Python , JS project
+- 🔭 I’m currently working on Python , JS ,Anchor
 - 🌱 I’m currently learning JAVASCRIPT,RUST,ANCHOR
 - 👯 I’m looking to collaborate on SOLANA ANCHOR PROJECTS
 - 🤔 I’m looking for help with ANCHOR , SEA HORSE
