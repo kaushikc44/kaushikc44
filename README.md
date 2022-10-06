@@ -2,8 +2,7 @@
 
 
 **kaushikc44/kaushikc44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<script src="https://kit.fontawesome.com/c3d2c66fe7.js" crossorigin="anonymous"></script>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=<kaushikc44>&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikc44&layout=compact&theme=radical)
 
 Here are some ideas to get you started:
 
