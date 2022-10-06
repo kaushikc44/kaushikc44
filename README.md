@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **kaushikc44/kaushikc44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Dm me on Twitter <a href="https://twitter.com/Kaushik02052914">Twitter</a>
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
