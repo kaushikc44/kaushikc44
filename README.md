@@ -1,6 +1,4 @@
 ### GM there <span>WEB3<span> FOLKS  👋
-### Hi there <span>WEB2<span> FOLKS  👋
-
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikc44&layout=compact&theme=radical)
